@@ -2,3 +2,6 @@ appnexus:
   seat1:
     endpoint: http://api.appnexus.com
     password: xydmviemdkx
+  seat2:
+    endpoint: http://console.client-testing.appnexus.com
+    password: xydmviemdkx
