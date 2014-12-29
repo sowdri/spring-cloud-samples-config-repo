@@ -1,0 +1,4 @@
+appnexus:
+  seat1:
+    endpoint: http://api.appnexus.com
+    password: xydmviemdkx
